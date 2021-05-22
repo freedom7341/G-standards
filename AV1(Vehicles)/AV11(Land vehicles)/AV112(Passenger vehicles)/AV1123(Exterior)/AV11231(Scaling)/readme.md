@@ -39,10 +39,10 @@ Sports car - not taller than a person, at least 6 inches shorter.<br>
 Hatchback - still a little shorter than a person, at least 2 inches shorter.<br>
 Minivan - about as tall as a person.<br>
 Van - a little taller, depending on what kind of van.<br>
-Truck - quite a lot taller than a person, the windshield should start up higher than a person..<br>
+Truck - quite a lot taller than a person, the windshield should start up higher than a person.<br>
 
 #### Conclusion.
 3rd option is always recommended to utilise no matter what method you use. When adding spoilers to cars you don't want them to be too small or too big (depends entirely on what kinda spoiler).
 
 
-*Written by Mrkykun*
+*Written by Mrkykun.*
