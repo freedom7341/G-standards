@@ -19,7 +19,7 @@ For example if you want to share your knowledge on how to build light vehicle bo
  * AV-1 (Transportation)
    * AV-1-1 (Cars)
      * AV-1-1-X (Body)
-       * AV-1-1-X.md
+       * AV-1-1-X.md <br />
 Where you would describe some fundamental steps on how to build a vehicle body.
 
 ### 3. Standards must be written in a step-by-step style.
