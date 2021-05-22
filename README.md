@@ -1,2 +1,1 @@
-# Avtomat-standards
-Avtomat community standard collection for building Garry's Mod contraptions.
+This repository is a collection of Garry's Mod contraption building standards regarding all types of contraptions.
