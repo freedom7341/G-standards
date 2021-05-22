@@ -17,7 +17,7 @@ Example of a good standard:<br>
 *5. ...*<br>
 You can, of course, explain a step in more detail. Feel free to comment the nuances and reasons of a step to help the reader understand. Just make sure the whole standard has an understandable structure so a reader can replicate the methods provided.
 
-#### 3. The text should be relatively formal.
+#### 3. The language must be appropriate.
 Refrain from using vulgar words or out-of-context comments. Of course not everyone is a great writer, so a bit of informality is acceptable.
 
 #### 4. Post your standard as a text file in "Issues", you can also include questions and nuances in the post.
