@@ -1,2 +1,1 @@
-This branch is for contraptions that are not stationary.<br>
-These can be planes, helicopters, cars, tanks, ships, submarines, drones, etc.
+### This branch is for contraptions that are not stationary, such as planes, helicopters, cars, tanks, ships, submarines, drones, etc.
