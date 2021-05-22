@@ -5,14 +5,14 @@
 
 ### 1. Avtomat standards begin with AV, sub-groups are separated by the "-" symbol.
 An example of how standards can be organized:
-  *AV-1 (Transportation)
-   *AV-1-1 (Cars)
-    *AV-1-1-1 (Engines)
-     *AV-1-1-2 (Steering)
-     *AV-1-1-X
-   *AV-1-2 (Tanks)
-   *AV-X-X
-  *AV-X
+* AV-1 (Transportation)
+  * AV-1-1 (Cars)
+    * AV-1-1-1 (Engines)
+     * AV-1-1-2 (Steering)
+     * AV-1-1-X
+  * AV-1-2 (Tanks)
+  * AV-X-X
+* AV-X
   
 ### 2. There must be one .md file in every sub-directory explaining the principles of how to do a certain thing.
 For example if you want to share your knowledge on how to build light vehicle bodies with props, you would put your description in:
