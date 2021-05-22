@@ -37,3 +37,6 @@ Example of a good standard:<br>
 *3. Make sure your wheels, baseplate and E2 are aligned to the world.*<br>
 *4. Configure the "ballsocket-advanced" tool to have these values: (values).*<br>
 *5. ...*<br>
+
+#### 5. Split explanations into smaller directories.
+Try not to write 100 lines of text in one standard if otherwise impossible. Splitting up your ideas and explanations will make it easier to read and reference a standard for others.
