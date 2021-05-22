@@ -19,7 +19,7 @@ An example of how standards can be organized:
 It is important to have a standard in the correct sub-branch. If you are unsure where your standard should be, feel free to contact the owners of this repository!
 
 #### 3. There must be one "readme.md" file in every sub-directory explaining the principles of how to do a certain thing.
-This is done to make this repository more readable. Contents of files named "readme.md" appear to users who are in the directory, so instead of opening a customly named filed for every standard you can simply scroll through folders and see the according standard without extra steps.
+This is done to make this repository more readable, contents of files named "readme.md" automatically appear to users who are in the directory without opening it.
 If you want to share your knowledge on how to build light vehicle bodies with props, you would put your description in:
  * AV-X (Transportation)
    * AV-X-X (Land vehicles)
