@@ -2,7 +2,7 @@
 
 ### If you wish to contribute, please read the "contributing.md" file.
 
-#### 1. Avtomat standards begin with AV, sub-groups are separated by the "-" symbol.
+#### Avtomat standards begin with AV, sub-groups are separated by the "-" symbol.
 An example of how standards are organized:
 * AV-1 (Transportation)
   * AV-1-1 (Land vehicles)
