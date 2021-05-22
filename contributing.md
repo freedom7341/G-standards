@@ -20,3 +20,5 @@ Example of a good standard:<br>
 We do not take pull requests for new standards, because classification and naming is done by owners of this repository to prevent mistakes from happening.
 
 ### If you want to correct a mistake in an existing standard, you can create a pull-request or post an edited text file in issues, referencing the number and name of the standard.
+
+### Don't hesitate to contact one of the owners directly if you have questions.
