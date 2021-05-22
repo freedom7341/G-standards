@@ -55,7 +55,7 @@ The calculated gearbox follows this pattern:<br>
 Gear ratios like these make sure when you switch to next gear at maximum power band RPM, your RPM will drop to the minimum power band RPM.
 This makes sure you accelerate to your top speed by using the entire engine power band.
 
-#### 6. Adjust gear placement
+#### 6. Adjust gear placement.
 If you did exactly as shown, chances are your 1st and 2nd gears will feel very short and useless.
 In this case you can simply remove the shorter gears and move gears downwards.
 
@@ -78,7 +78,7 @@ The example gearbox would look like this:<br>
 R: -0.19<br>
 FD: 0.5<br>
 
-#### 7. Conclusion
+#### Conclusion.
 Generally you want to tune your gears when you know the car will not change its weight or any other properties.
 If you want to change the final drive, you have to recalculate all the gear ratios from start.
 
