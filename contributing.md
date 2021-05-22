@@ -10,7 +10,8 @@ Don't hesitate to contact one of the owners directly if you have questions.
 Make sure to include some kind of an explanation on what the reader is about to follow, otherwise the steps may seem confusing out of context.
 
 #### 2. Standards must be written in a step-by-step style with numbering.
-Explain what you will do in a step shortly, then explain the details separately.
+Explain what you will do in a step shortly, then explain the details separately. If the step can be described in a single short sentence,
+additional comments aren't required.
 
 ##### Bad example:<br>
 *To make a setang, simply get this E2 (E2 code) and spawn a gate, then ballsocket your wheels to the setang and ballsocket setang to wheels.*
@@ -26,8 +27,12 @@ Explain what you will do in a step shortly, then explain the details separately.
 *5. ...*<br><br>
 In fact, these rules are written in such a style.
 
-#### 3. The language must be appropriate.
+#### 3. Formatting.
+When writing your standard, try to avoid using indents, excessive amount of spaces and blank lines.
+It will make it easier for owners to format the text.
+
+#### 4. The language must be appropriate.
 Refrain from using vulgar words or out-of-context comments. Of course not everyone is a great writer, so a bit of informality is acceptable.
 
-#### 4. Post your standard as a text file in "Issues", you can also include questions and nuances in the post.
+#### 5. Post your standard as a text file in "Issues", you can also include questions and nuances in the post.
 We do not take pull requests for new standards, because classification and naming is done by owners of this repository to prevent mistakes from happening.
