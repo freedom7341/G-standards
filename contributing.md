@@ -12,7 +12,7 @@ An example of how standards can be organized:
     * AV-1-1-2 (Passenger vehicles)
     * AV-1-1-X
   * AV-1-2 (Air vehicles)
-  * AV-X-X
+  * AV-1-X
 * AV-X
 
 #### 2. Classify your standard accordingly.
