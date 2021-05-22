@@ -15,6 +15,7 @@ Example of a good standard:<br>
 *3. Make sure your wheels, baseplate and E2 are aligned to the world.*<br>
 *4. Configure the "ballsocket-advanced" tool to have these values: (values).*<br>
 *5. ...*<br>
+You can, of course, explain a step in more detail. Feel free to comment the nuances and reasons of a step to help the reader understand.
 
 #### 3. Post your standard as a text file in "Issues", you can also include questions and nuances in the post.
 We do not take pull requests for new standards, because classification and naming is done by owners of this repository to prevent mistakes from happening.
