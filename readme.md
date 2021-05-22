@@ -1,8 +1,5 @@
 ## *Avtomat Standards (AV)* is a structurally organized collection of standards (methods) for building various contraptions in Garry's Mod.
-
-### If you wish to contribute, please read the "contributing.md" file.
-
-#### Avtomat standards begin with AV, sub-groups are separated by the "-" symbol.
+### Avtomat standards begin with AV, sub-groups are separated by the "-" symbol.
 An example of how standards are organized:
 * AV-1 (Transportation)
   * AV-1-1 (Land vehicles)
@@ -12,3 +9,4 @@ An example of how standards are organized:
   * AV-1-2 (Air vehicles)
   * AV-1-X
 * AV-X
+### If you wish to contribute, please read the "contributing.md" file.
