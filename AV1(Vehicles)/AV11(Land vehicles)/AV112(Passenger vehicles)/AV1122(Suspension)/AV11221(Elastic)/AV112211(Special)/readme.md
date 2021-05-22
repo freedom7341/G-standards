@@ -105,7 +105,7 @@ It can also be fixed by using Expression 2 chips that manipulate prop inertia.
 #### Conclusion.
 Suspension Building is the most tedious and most constraint heavy part of vehicle building, however necessary it may be.<br>
 This guide shows a method which has the least amount of contraints and entities (looking at you, hydro controllers).
-The only simpler method would be to use direct axis center constraints and ballscockets which can't really be called a proper suspension
+The only simpler method would be to use direct axis center constraints and ballsockets which can't really be called a proper suspension
 and does not have the same effect.
 
 Written by Mrkykun
