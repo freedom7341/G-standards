@@ -16,7 +16,7 @@ An example of how standards can be organized:
 * AV-X
 
 #### 2. Classify your standard accordingly.
-It is important to have a standard in the correct sub-branch. If you are unsure on where your standard should be, feel free to contact the owners of this repository!
+It is important to have a standard in the correct sub-branch. If you are unsure where your standard should be, feel free to contact the owners of this repository!
 
 #### 3. There must be one "readme.md" file in every sub-directory explaining the principles of how to do a certain thing.
 This is done to make this repository more readable. Contents of files named "readme.md" appear to users who are in the directory, so instead of opening a customly named filed for every standard you can simply scroll through folders and see the according standard without extra steps.
