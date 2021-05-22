@@ -17,9 +17,9 @@ An example of how standards can be organized:
 ### 2. There must be one .md file in every sub-directory explaining the principles of how to do a certain thing.
 For example if you want to share your knowledge on how to build light vehicle bodies with props, you would put your description in:
  * AV-1 (Transportation)
-  * AV-1-1 (Cars)
-   * AV-1-1-X (Body)
-    * AV-1-1-X.md
+   * AV-1-1 (Cars)
+     * AV-1-1-X (Body)
+       * AV-1-1-X.md
 Where you would describe some fundamental steps on how to build a vehicle body.
 
 ### 3. Standards must be written in a step-by-step style.
