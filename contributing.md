@@ -17,7 +17,10 @@ Example of a good standard:<br>
 *5. ...*<br>
 You can, of course, explain a step in more detail. Feel free to comment the nuances and reasons of a step to help the reader understand. Just make sure the whole standard has an understandable structure so a reader can replicate the methods provided.
 
-#### 3. Post your standard as a text file in "Issues", you can also include questions and nuances in the post.
+#### 3. The text should be relatively formal.
+Refrain from using vulgar words or out-of-context comments. Of course not everyone is a great writer, so a bit of informality is acceptable.
+
+#### 4. Post your standard as a text file in "Issues", you can also include questions and nuances in the post.
 We do not take pull requests for new standards, because classification and naming is done by owners of this repository to prevent mistakes from happening.
 
 ### If you want to correct a mistake in an existing standard, you can create a pull-request or post an edited text file in issues, referencing the number and name of the standard.
