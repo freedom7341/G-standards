@@ -8,8 +8,8 @@ An example of how standards can be organized:
 * AV-1 (Transportation)
   * AV-1-1 (Cars)
     * AV-1-1-1 (Engines)
-     * AV-1-1-2 (Steering)
-     * AV-1-1-X
+    * AV-1-1-2 (Steering)
+    * AV-1-1-X
   * AV-1-2 (Tanks)
   * AV-X-X
 * AV-X
@@ -23,6 +23,14 @@ For example if you want to share your knowledge on how to build light vehicle bo
 
 Where you would describe some fundamental steps on how to build a vehicle body.
 
-### 3. Standards must be written in a step-by-step style.
-Example of a bad standard:
+### 3. Standards must be written in a step-by-step style with numbering.
+Example of a bad standard:<br>
+*To make a setang, simply get this E2 (E2 code) and spawn a gate, then ballsocket your wheels to the setang and ballsocket setang to wheels.*
+
+Example of a good standard:<br>
+*1. Create an E2 gate by using this E2 code (E2 code).*
+*2. Wire the "Baseplate:entity" of E2 to your baseplate.*
+*3. Make sure your wheels, baseplate and E2 are aligned to the world.*
+*4. Configure the "ballsocket-advanced" tool to have these values: (values).*
+*5. ...
  
