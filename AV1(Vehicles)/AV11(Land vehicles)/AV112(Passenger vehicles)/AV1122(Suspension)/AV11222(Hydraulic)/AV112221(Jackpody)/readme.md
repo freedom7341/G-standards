@@ -18,7 +18,7 @@ Use the "Make Spherical" tool on all 4 wheels.
 Preferably use the "Precision Alignment" or "Precision" tool.
 
 #### 6. Create ropes.
-There are multiple ways you can create ropes, usually it resembles a "V" shape, where bottom of V is the mass center of the wheel, 
+There are multiple ways you can create ropes, usually it resembles a "V" shape, where bottom of "V" is the mass center of the wheel, 
 and both upper corners of "V" are points attached to the baseplate.<br>
 The "V" shape limits the wheel's travel to up/down only.
 
