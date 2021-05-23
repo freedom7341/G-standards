@@ -10,7 +10,7 @@
 - 2.2. The weight of a vehicle must be realistic. This is in a way subjective, but common sense applies - do not make your truck weigh 200kg.
 
 #### 3. Engine.
-- 3.1. Only one physical engine is allowed in a vehicle, no exceptions. Another small engine to simulate a turbo is also not allowed.
+- 3.1. Only one physical engine is allowed in a vehicle, no exceptions. A second smaller engine to simulate a turbo is also not allowed.
 - 3.2. Engine's power and size must be realistic, common sense applies. Do not put a 3.0 V12 into a Twingo.
 - 3.3. E2 engines don't have a physical model, but keep the applied forces in a range where the acceleration and top speed of a car is realistic.
 
