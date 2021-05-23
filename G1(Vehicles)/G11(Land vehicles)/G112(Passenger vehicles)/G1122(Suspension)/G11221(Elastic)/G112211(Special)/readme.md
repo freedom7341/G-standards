@@ -5,7 +5,7 @@ The reason we are using prop engine building tools is to cut down on rope constr
 usually we would have two ropes representing and acting as two suspension arms which hold the wheel in place.
 Here we only have one constraint that holds the wheel in place.
 #### Opening note:
-All values are purely recommendations by the writer Mrkykun.
+All values are purely recommendations.
 Everyone does things a little different so you might be keen on using different values, which is completely acceptable.
 In this standard I do not insist on using any specific props,
 but we will assume that the baseplate does not have collision and that the wheels do.
@@ -107,5 +107,3 @@ Suspension Building is the most tedious and most constraint heavy part of vehicl
 This guide shows a method which has the least amount of contraints and entities (looking at you, hydro controllers).
 The only simpler method would be to use direct axis center constraints and ballsockets which can't really be called a proper suspension
 and does not have the same effect.
-
-Written by Mrkykun
