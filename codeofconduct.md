@@ -45,7 +45,7 @@ This is done to avoid long names.
 5.1. Every standard must use the same syntax.<br>
 5.2. In the beginning of each standard, an introduction is given as to what the method is, preferably its benefits and unique features are mentioned.
 Introduction text is plain and without styling.<br>
-5.3. Every step is numbered and given a short name or sentence, ending with a period symbol.
+5.3. Every step is numbered and given a short name or sentence, ending with a period symbol.<br>
 5.4. Every step is marked as a heading by including four hashtags, space, and the step number, for example:<br>
 "#### 3. Adjust parameters."<br>
 
