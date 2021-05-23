@@ -8,7 +8,7 @@ Standards can:<br>
 
 And many more things can be done with *G-Standards*.
 
-Avtomat standards are numerically sorted, every standard has their unique index and can be found in this repository.
+*G-Standards* are numerically sorted, every standard has their unique index and can be found in this repository.
 For example, if you want to share "Jackpody's Suspension" with someone, you can simply tell them it is standardized under <b>G112221</b>.
 
 This collection accepts any methods in Garry's Mod building!<br>
