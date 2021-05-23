@@ -57,6 +57,8 @@ Then, create ball-sockets:<br>
 
 #### 10. Prepare points for hydraulics.
 The point for wire hydraulic can be set using a prop or specific "Precision Alignment" functions.
+In Jackpody's suspension the point is usually set 30-48 units above the wheel,
+and maybe 6-12 units to the inside of the car to prevent wheels popping too easily.
 
 #### 11. Make hydraulics.
 Make the wire hydraulics and, preferably, put their controllers on a seperate prop.
