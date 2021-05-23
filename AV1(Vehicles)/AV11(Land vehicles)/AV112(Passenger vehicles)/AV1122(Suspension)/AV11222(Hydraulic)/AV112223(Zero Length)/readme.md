@@ -7,7 +7,7 @@ Do everything as you would when making suspension until you have to make the hyd
 #### 2. Create hydraulics.
 Instead of following the step 10 from AV112221(Jackpody) and put the hydraulic points above wheels, you must:
 1. Create point 1 on the mass center of a wheel.
-2. Create a point 2 on the mass center of a wheel and attach it to the baseplate.
+2. Create point 2 on the mass center of a wheel and attach it to the baseplate.
 3. Create a hydraulic connection.
 
 #### 3. Continue with steps 11-12 from AV112221(Jackpody).
