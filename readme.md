@@ -1,4 +1,4 @@
-## *Avtomat Standards* is an organized collection of methods related to Garry's Mod.
+## *G-Standards* is an organized collection of methods related to Garry's Mod.
 #### Standards help us share and reference methods.<br>
 Standards can:<br>
 - Describe a method to create vehicle suspensions or tune ACF gearboxes.
