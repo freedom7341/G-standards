@@ -11,4 +11,6 @@ And many more things can be done with *Avtomat Standards*.
 This collection accepts any methods in Garry's Mod building!<br>
 Any method as complicated as building a 16-bit adder circuit with gates, and, as easy as making a prop base, are valid.<br>
 
+#### See "history.md" for already uploaded standards.
+
 ### If you wish to contribute, please read the "contributing.md" file.
