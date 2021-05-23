@@ -8,6 +8,9 @@ Standards can:<br>
 
 And many more things can be done with *Avtomat Standards*.
 
+Avtomat standards are numerically sorted, every standard has their unique index and can be found in this repository.
+For example, if you want to share "Jackpody's Suspension" with someone, you can simply tell them it is standardized under <b>AV112221</b>.
+
 This collection accepts any methods in Garry's Mod building!<br>
 Any method as complicated as building a 16-bit adder circuit with gates, and, as easy as making a prop base, are valid.<br>
 
