@@ -3,7 +3,8 @@ Semi-Active Suspension by DeHelleman (not for beginners).
 #### 1. Setting up your ropes.
 1. Select the "Precision Alignment" tool.
 2. Select "Mass Centre Point" and make a Point 1 on your wheel.
-3. Select "Hitpos Point" and add Points 2, 3 to your baseplate, on the inner opposite edges from the wheel.
+3. Select "Hitpos Point" and add Points 2, 3 to your baseplate, on the further opposite edges from the wheel.
+This basically means the ropes form a "V" shape that reaches out to the side of the baseplate that is opposite to wheels.
 4. Press R and go to "Constraints", then select "Rope". Change the "Width" to 0 if you don't want to see your ropes.
 5. Making sure the "Rigid" option is checked [X], you select Point 1 on the top list.
 6. Now select Point 2 on the bottom list, and click on "Create Constraint", do the same for Point 3.
