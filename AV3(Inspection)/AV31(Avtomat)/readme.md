@@ -19,7 +19,7 @@
 
 #### 5. Body work.
 - 5.1. A car must be recognisable as a car and not just a chassis.
-- 5.2. ATV class vehicles (bikes, buggies, etc) can have little to no bodywork, as that is the realistic design.
+- 5.2. ATV class vehicles (bikes, buggies, etc.) can have little to no bodywork, as that is the realistic design.
 - 5.3. Using downloaded models such as TDM and using them as hologram bodies for your vehicle is not allowed.
 - 5.4. A prop body converted to holograms is allowed.
 - 5.5. Using models from HL2 and other source games (The Green ZAZ, CSS Corolla, etc.) is allowed as long as you extensively modify them.
