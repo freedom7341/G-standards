@@ -43,6 +43,3 @@ Truck - quite a lot taller than a person, the windshield should start up higher 
 
 #### Conclusion.
 3rd option is always recommended to utilise no matter what method you use. When adding spoilers to cars you don't want them to be too small or too big (depends entirely on what kinda spoiler).
-
-
-*Written by Mrkykun.*
